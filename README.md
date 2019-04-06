@@ -1,5 +1,7 @@
 # hello-world
-prova
+
+aggiunta di testo con anche cancellazioni
 
 
-commit githug prova modifica
+commit githug
+riga 6: cancellata solo mezza riga
